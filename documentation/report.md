@@ -1,7 +1,8 @@
-📘 Title:
-Keystroke Logging: Understanding Keyloggers Through Ethical Hacking
+# Title **Keystroke Logging: Understanding Keyloggers Through Ethical Hacking**
 
-👨‍🎓 Abstract
+A Python-based remote keylogger designed for educational and ethical testing purposes on Windows 11, demonstrating how keystrokes can be captured and sent to a remote server—highlighting the simplicity of its creation and the importance of cybersecurity awareness
+
+## Abstract
 This project demonstrates the working of a basic keylogger written in Python, built for educational purposes under a Cybersecurity and Ethical Hacking course. A keylogger is a software tool designed to record user keystrokes. While malicious in real-world scenarios, our implementation is a controlled and ethical demonstration, focusing on understanding potential threats, their mechanisms, and defensive strategies.
 
 🎯 Objective
